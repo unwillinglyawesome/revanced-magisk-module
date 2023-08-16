@@ -4,7 +4,7 @@ enable-magisk-update = true
 build-mindetach-module = false
 
 [YouTube]
-enabled = false
+enabled = true
 app-name = "YouTube"
 rv-brand = "ReVanced"
 build-mode = "both"

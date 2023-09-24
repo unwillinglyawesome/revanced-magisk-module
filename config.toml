@@ -5,7 +5,7 @@ enable-magisk-update = true
 build-mindetach-module = false
 
 [YouTube]
-enabled = true
+enabled = false
 app-name = "YouTube"
 rv-brand = "ReVanced"
 build-mode = "both"
@@ -15,3 +15,10 @@ included-patches = ""
 exclusive-patches = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 module-prop-name = "ytrv-magisk"
+
+[TikTok]
+enabled = true
+app-name = "TikTok"
+build-mode = "apk"
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+exclusive-patches = false

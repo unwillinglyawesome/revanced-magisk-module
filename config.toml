@@ -18,7 +18,4 @@ module-prop-name = "ytrv-magisk"
 
 [TikTok]
 enabled = true
-app-name = "TikTok"
-build-mode = "apk"
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-exclusive-patches = false
+uptodown-dlurl = "https://tiktok.uptodown.com/android"

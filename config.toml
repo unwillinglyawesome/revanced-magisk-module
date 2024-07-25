@@ -11,6 +11,7 @@ excluded-patches = "'Custom branding' 'Premium heading'"
 included-patches = ""
 exclusive-patches = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [YouTube-Music]
 enabled = true
@@ -22,3 +23,4 @@ arch = "both"
 excluded-patches = ""
 included-patches = ""
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"

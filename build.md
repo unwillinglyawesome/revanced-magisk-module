@@ -1,3 +1,5 @@
+YouTube-Music (arm64-v8a): 7.03.52  
+YouTube: 19.16.39  
 YouTube-Music (arm-v7a): 7.03.52  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  

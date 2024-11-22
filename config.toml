@@ -27,7 +27,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Google-Photos]
-enabled = enable
+enabled = true
 version = "auto"
 build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos/"

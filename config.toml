@@ -26,7 +26,7 @@ included-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
-[Google Photos]
+[Google-Photos]
 enabled = enable
 version = "auto"
 build-mode = "module"

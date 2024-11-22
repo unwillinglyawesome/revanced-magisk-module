@@ -3,7 +3,7 @@ enable-magisk-update = true
 parallel-job = 1
 
 [YouTube]
-enabled = false
+enabled = true
 app-name = "YouTube"
 rv-brand = "ReVanced"
 build-mode = "both"
@@ -15,7 +15,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 
 [YouTube-Music]
-enabled = false
+enabled = true
 app-name = "YouTube Music"
 rv-brand = "ReVanced"
 build-mode = "both"
@@ -28,8 +28,11 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 [Google-Photos]
 enabled = true
+app-name = "Google Photos"
+rv-brand = "ReVanced"
+build-mode = "both"
 version = "auto"
-build-mode = "module"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos/"
-included-patches = "'com.google.android.apps.photos.nexus_preload' 'com.google.android.apps.photos.NEXUS_PRELOAD' 'com.google.android.feature.PIXEL_2021_EXPERIENCE' 'com.google.android.feature.PIXEL_2022_EXPERIENCE'"
 arch = "both"
+excluded-patches = ""
+included-patches = "'com.google.android.apps.photos.nexus_preload' 'com.google.android.apps.photos.NEXUS_PRELOAD' 'com.google.android.feature.PIXEL_2021_EXPERIENCE' 'com.google.android.feature.PIXEL_2022_EXPERIENCE'"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos/"

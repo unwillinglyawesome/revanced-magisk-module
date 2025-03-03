@@ -1,6 +1,6 @@
 {
-  "version": "v8.05.51 (patches: 5.12.0)",
-  "versionCode": 70,
-  "zipUrl": "https://github.com/unwillinglyawesome/revanced-magisk-module/releases/download/70/youtube-music-revanced-magisk-v8.05.51-arm-v7a.zip",
+  "version": "v8.05.51 (patches: 5.13.0)",
+  "versionCode": 71,
+  "zipUrl": "https://github.com/unwillinglyawesome/revanced-magisk-module/releases/download/71/youtube-music-revanced-magisk-v8.05.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/unwillinglyawesome/revanced-magisk-module/update/build.md"
 }

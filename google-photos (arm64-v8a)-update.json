@@ -1,6 +1,6 @@
 {
-  "version": "v7.38.0.785903005 (patches 5.32.0)",
-  "versionCode": 94,
-  "zipUrl": "https://github.com/unwillinglyawesome/revanced-magisk-module/releases/download/94/google-photos-revanced-magisk-v7.38.0.785903005-arm64-v8a.zip",
+  "version": "v7.40.0.790840830 (patches 5.33.0)",
+  "versionCode": 95,
+  "zipUrl": "https://github.com/unwillinglyawesome/revanced-magisk-module/releases/download/95/google-photos-revanced-magisk-v7.40.0.790840830-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/unwillinglyawesome/revanced-magisk-module/update/build.md"
 }

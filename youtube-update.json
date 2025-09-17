@@ -1,6 +1,6 @@
 {
-  "version": "v20.13.41 (patches 5.38.0)",
-  "versionCode": 101,
-  "zipUrl": "https://github.com/unwillinglyawesome/revanced-magisk-module/releases/download/101/youtube-revanced-magisk-v20.13.41-all.zip",
+  "version": "v20.13.41 (patches 5.39.0)",
+  "versionCode": 102,
+  "zipUrl": "https://github.com/unwillinglyawesome/revanced-magisk-module/releases/download/102/youtube-revanced-magisk-v20.13.41-all.zip",
   "changelog": "https://raw.githubusercontent.com/unwillinglyawesome/revanced-magisk-module/update/build.md"
 }

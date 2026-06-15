@@ -2,7 +2,7 @@ enable-magisk-update = true
 parallel-jobs = 1
 
 [YouTube]
-enabled = true
+enabled = false
 app-name = "YouTube"
 rv-brand = "ReVanced"
 build-mode = "both"
@@ -14,8 +14,23 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[YouTube-Music]
+[YouTube-Morphe]
 enabled = true
+app-name = "YouTube"
+rv-brand = "Morphe"
+build-mode = "both"
+version = "auto"
+excluded-patches = "'Custom branding' 'Premium heading'"
+included-patches = ""
+exclusive-patches = false
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[YouTube-Music]
+enabled = false
 app-name = "YouTube Music"
 rv-brand = "ReVanced"
 build-mode = "both"
@@ -23,6 +38,21 @@ version = "auto"
 arch = "both"
 excluded-patches = ""
 included-patches = ""
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+
+[YouTube-Music-Morphe]
+enabled = true
+app-name = "YouTube Music Morphe"
+rv-brand = "Morphe"
+build-mode = "both"
+version = "auto"
+arch = "both"
+excluded-patches = ""
+included-patches = ""
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"

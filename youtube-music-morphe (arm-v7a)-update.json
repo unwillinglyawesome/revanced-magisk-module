@@ -1,6 +1,6 @@
 {
-  "version": "v9.15.51 (patches 1.34.0.mpp)",
-  "versionCode": 119,
-  "zipUrl": "https://github.com/unwillinglyawesome/revanced-magisk-module/releases/download/119/youtube-music-morphe-module-v9.15.51-arm-v7a.zip",
+  "version": "v9.15.51 (patches 1.35.0.mpp)",
+  "versionCode": 120,
+  "zipUrl": "https://github.com/unwillinglyawesome/revanced-magisk-module/releases/download/120/youtube-music-morphe-module-v9.15.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/unwillinglyawesome/revanced-magisk-module/update/build.md"
 }

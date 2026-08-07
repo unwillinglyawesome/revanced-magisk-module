@@ -1,7 +1,7 @@
 enable-magisk-update = true
 parallel-jobs = 1
 
-[YouTube-Morphe]
+[YouTube]
 enabled = true
 app-name = "YouTube"
 rv-brand = "Morphe"
@@ -16,7 +16,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[YouTube-Music-Morphe]
+[YouTube-Music]
 enabled = true
 app-name = "YouTube Music"
 rv-brand = "Morphe"
